@@ -1,3 +1,5 @@
+// Transition.java
+
 package main.metamodel;
 
 public class Transition {
